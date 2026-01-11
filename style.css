@@ -1,0 +1,66 @@
+* {
+    margin: 0px ;
+    padding: 0px;
+}
+.profile-photo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 30px;
+}
+
+h1 {
+color: purple;
+font-size: 70px;
+text-align: center;
+padding: 1rem;
+
+background-color: rgb(255, 255, 255);
+}
+
+body {
+    text-align: center;
+    background-color: #e1d8fc;
+    font-size: 1rem;
+}
+
+
+.certificates {
+    display: flex;
+    margin-top: 10px;
+    font-size: 1rem;
+}
+
+.certificate-card {
+    flex: 1;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.certificate-card img {
+    width: 500px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
+
+.activity {
+    display: flex;
+    margin-top: 10px;
+    font-size: 1rem;    
+}
+
+.activity-card {
+    flex: 1;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.activity-card img {
+    width: 500px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
